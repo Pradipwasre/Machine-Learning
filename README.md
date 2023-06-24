@@ -88,3 +88,18 @@ Some more examples of `reinforcement learning` in image processing include: Robo
 
 _____________________________________________________________________________________
 
+# Types of data: "What kind of data do we have"
+
+Data comes in many different shapes and sizes, but the main two types are structured and unstructured.
+
+**Structured data:** Structured data is something you'd expect to see in `excel file`, such as rows and columns of different patient records and whether or not they have heart disease or customer purchase transactions. It's called structure data because all of the samples, the different patient records, are typically in similar format, meaning one column might contain numebers of a certain type, such as average blood pressure or sex of weight of a patient.
+
+**Unstructured Data:** are things like images, natural language, text such as transcribed phone calls, videos and audio files. Although we can turn these files into numbers and create structure, they typically come in many varying formats.
+
+
+`The more data the better.`
+_____________________________________________________________________________________
+
+# Types of Evaluation:
+
+
