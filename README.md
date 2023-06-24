@@ -100,6 +100,21 @@ Data comes in many different shapes and sizes, but the main two types are struct
 `The more data the better.`
 _____________________________________________________________________________________
 
-# Types of Evaluation:
+# Types of Evaluation: "What defines success for us?"
 
+![Alt text](image.png)
+
+Every `Machine Learning` problem you come across will have the similar goal of finding insights in data to preditct the future in some way. And `Evaluation Metric` is a measure of how well a machine learning algorithm predicts the future. And in this step, the question yout want to answer is _What defines success for us?_
+
+**Project: Heart Disease** for this project to be worth pursuing further, we need a machine learning model with over `99%` accuray. Because predicting whetheror not a patient has heart disease is an important task. _so you want highly accurate model._
+
+**There are different evaluation metrics for different problems for classification**
+
+**Accuracy:** For regression or predicting a number such as how much a car well sell for, you'll probably want to minimzie how different the number your model predicts to the actual sale price. For this `Mean Absolute Error` & `Mean Square Error` are common options or for recommendation problems.
+
+You may have thousands of different products to recommend to someone, but in reality you only care about the top ten recommendations and how well they align to a customer's potential interest. To measure this, you could use precision at K, where in out case K is ten.
+
+**Precision:**
+
+**Recall:**
 
