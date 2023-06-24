@@ -112,9 +112,24 @@ Every `Machine Learning` problem you come across will have the similar goal of f
 
 **Accuracy:** For regression or predicting a number such as how much a car well sell for, you'll probably want to minimzie how different the number your model predicts to the actual sale price. For this `Mean Absolute Error` & `Mean Square Error` are common options or for recommendation problems.
 
-You may have thousands of different products to recommend to someone, but in reality you only care about the top ten recommendations and how well they align to a customer's potential interest. To measure this, you could use precision at K, where in out case K is ten.
+You may have thousands of different products to recommend to someone, but in reality you only care about the top ten recommendations and how well they align to a customer's potential interest. To measure this, you could use precision at K, where in out case K is `10`.
 
 **Precision:**
 
+
 **Recall:**
 
+_____________________________________________________________________________________
+
+# Modelling Part 1-3 sets: "Based on out problem and data, what model should we use?"
+
+1. Choosing and training a model
+2. Tuning a model
+3. Model Comparison
+
+![Alt text](image-1.png)
+
+**The most important concept in machine learning:** The training, validation and test sets. Now, since you want to be using machine leanring models to gain insights data to predict the future, it's important to test how well they would go and do in the real world. To this, you split your data into these three different sets `[training, validation and test sets]`.
+* Training Set: To train your model
+* Validation Set: To churn your model
+* Test Set: Compare your different models
