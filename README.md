@@ -72,8 +72,19 @@ _A supervised learing algorithm repeats this process over and over and over agai
 
 ### **Unsupervised Learning:**
 
-Unsipervised learning has data but no labels
+Unsipervised learning has data but no labels. `Unsupervised learning` is when it can provide a set of unlabelled data, which it is required to analyze and find patterns inside. The examples are dimension reduction and clustering.
+
 ### **Transfer Learning:**
 
+Transfer learning leverages what one machine learning model has learned in another machine learning.For `example` say, you're trying to predict what dog breed appears in a photol. You can find an existing model which is learned to decipher different car type and fine tune it for your task.
+
+**Why it is valuable?** Because training a machine learning algorithm, which means letting it find all of the of the patterns in data, can be very expensive tak to find patterns in data. A `Machine Learning` algorithm has to make millions of calculatoins. So instead of learning everything about different photos from scratch, such as what patterns look like.
 
 ### **Reinforcement Learning:**
+
+Some more examples of `reinforcement learning` in image processing include: Robots equipped with visual sensors from to learn their surrounding environment. Scanners to understand and interpret text. Image pre-processing and segmentation of medical images, like CT Scans.
+
+** So match your problem
+
+_____________________________________________________________________________________
+
