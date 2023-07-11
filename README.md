@@ -16,8 +16,8 @@ Data is requirement for any Machine Learning project. what kind of data you have
 
 ## 3. Evaluation:
 
-Here "What defiens success for us?"
-* Since Machine Leanring actually is experimantal. You can keep going forever trying to improve your results in search of the perfect model.
+Here "What defines success for us?"
+* Since Machine learning is actually experimental. You can keep going forever trying to improve your results in search of the perfect model.
 
 * As a practitioners, we know the prefect model doesn't exist. We began by saying, for the machine learning real estate project to be feafible, we need atlest a 95% accurate model at predicting the cost of houses.
 
