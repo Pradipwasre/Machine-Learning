@@ -44,7 +44,7 @@ Once you've learned a little bit about your data, the next step is to model it.
 
 "How could we improve/what can we try next?"
 
-All of the steps we've just been through happen in cycle. How might start out with one problem defination and find your data isn't suited to it. Then you might build a model and find out it doesn't work as well as you outlined in yout evaluation metric.
+All of the steps we've just been through happen in cycle. How might start out with one problem definition and find your data isn't suited to it. Then you might build a model and find out it doesn't work as well as you outlined in yout evaluation metric.
 
 _____________________________________________________________________________________
 
