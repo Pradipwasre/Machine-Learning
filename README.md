@@ -133,3 +133,20 @@ ________________________________________________________________________________
 * Training Set: To train your model
 * Validation Set: To churn your model
 * Test Set: Compare your different models
+
+
+---------------------------------------------------------------------------------------
+
+### Measugin Distances:
+
+**Defination And Properties:**
+
+* Distance measures play an important role in machine learning.
+
+They provide the foundation for many popular and effective machine learning algorithms like k-nearest neighbors for supervised learning and k-means clustering for unsupervised learning.
+
+Different distance measures must be chosen and used depending on the types of the data. As such, it is important to know how to implement and calculate a range of different popular distance measures and the intuitions for the resulting scores.
+
+**Role of Distance Measures:**
+
+Distance measures play an important role in machine learning.
