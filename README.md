@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 # Types of MACHINE LEARNING problem:
 
-### 1. Problme Defination: "what problem we trying to solve?"
+### 1. Problem Definition: "What problem we trying to solve?"
 
 <sub>Supervised Learning </sub>
 <sub>Unsupervised Learning </sub>
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 ### **Supervised Learning:** 
 
-Supervised learning is called supervised learning because you have data and labels. A machine learning algorithm tries to use the data to predict a label. If it guesses the label wrong, the algorithms corrects itself and tries again. This act of correction is why it's called `supervised`. It's like if you were trying to guess the steps it took to turn a set of ingredients, the data into your favourite soup dish, the label. If you tried once and got it wrong, you tell yourself this was wrong. Maybe next time we'll try something different.
+Supervised learning is called supervised learning because you have data and labels. A machine learning algorithm tries to use the data to predict a label. If it guesses the label wrong, the algorithm corrects itself and tries again. This act of correction is why it's called `supervised`. It's like if you were trying to guess the steps it took to turn a set of ingredients, the data into your favorite soup dish, the label. If you tried once and got it wrong, you tell yourself this was wrong. Maybe next time we'll try something different.
 
 _A supervised learing algorithm repeats this process over and over and over again, trying to get better._
 
