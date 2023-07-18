@@ -31,20 +31,20 @@ What do we already know about the data?
 
 * They are more kinds of features, such as categorical and derived.
 
-## 5. Modelling:
+## 5. Modeling:
 
 Once you've learned a little bit about your data, the next step is to model it.
-"Based on out problem and data, what model should we use?"
+"Based on our problem and data, what model should we use?"
 
-* Unlike other algorithms and sets of instructions, you have to write from scratch, Many of algorithms are already coded for you, which is beautiful for us.
+* Unlike other algorithms and sets of instructions, you have to write from scratch, Many algorithms are already coded for you, which is beautiful for us.
 
-* Some models work better on different problems than others, and in the beginning your focus will be to figure out the right model for the right kind of problem.
+* Some models work better on different problems than others, and in the beginning, your focus will be to figure out the right model for the right kind of problem.
 
 ## 6. Experimentation:
 
 "How could we improve/what can we try next?"
 
-All of the steps we've just been through happen in cycle. How might start out with one problem definition and find your data isn't suited to it. Then you might build a model and find out it doesn't work as well as you outlined in yout evaluation metric.
+All of the steps we've just been through happen in a cycle. How might start out with one problem definition and find your data isn't suited to it? Then you might build a model and find out it doesn't work as well as you outlined in your evaluation metric.
 
 _____________________________________________________________________________________
 
