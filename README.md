@@ -84,7 +84,6 @@ Transfer learning leverages what one machine learning model has learned in anoth
 Some more examples of `reinforcement learning` in image processing include: Robots equipped with visual sensors from to learn their surrounding environment. Scanners to understand and interpret text. Image pre-processing and segmentation of medical images, like CT Scans.
 
 ** So match your problem
-
 _____________________________________________________________________________________
 
 # Types of data: "What kind of data do we have"
