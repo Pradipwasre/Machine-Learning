@@ -114,7 +114,6 @@ You may have thousands of different products to recommend to someone, but in rea
 
 **Precision:**
 
-
 **Recall:**
 
 _____________________________________________________________________________________
