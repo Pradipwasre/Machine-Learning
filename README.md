@@ -69,7 +69,6 @@ _A supervised learing algorithm repeats this process over and over and over agai
 **Regression**: Regression problems involve trying to predict a number. `House predictions`, `stock prices`
 
 
-
 ### **Unsupervised Learning:**
 
 Unsipervised learning has data but no labels. `Unsupervised learning` is when it can provide a set of unlabelled data, which it is required to analyze and find patterns inside. The examples are dimension reduction and clustering.
