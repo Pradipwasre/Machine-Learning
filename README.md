@@ -2,6 +2,7 @@
 
 
 Welcome to the **Machine Learning Course Repository**!  
+
 This repo is designed to provide a **modular, classroom‑friendly structure** for learning and teaching machine learning.  
 It contains Jupyter notebooks, scripts, datasets, slides, and mini‑projects aligned with a step‑by‑step curriculum.
 
