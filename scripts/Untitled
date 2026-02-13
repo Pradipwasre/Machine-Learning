@@ -1,0 +1,3 @@
+mkdir -p projects/regression_project \
+         projects/classification_project \
+         projects/nlp_project
