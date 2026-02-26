@@ -1,5 +1,6 @@
 # Machine Learning Course Repository
 
+Day 1 of class 
 
 Welcome to the **Machine Learning Course Repository**!  
 
